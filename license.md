@@ -18,7 +18,8 @@
 </div>
 
 <div align="center">
-<img width="1560" height="652" alt="Black Flag Resynced" src="https://github.com/user-attachments/assets/83de6ed8-872e-4a01-be14-a547273ba3db" />
+<img width="686" height="386" alt="hq720 (36)" src="https://github.com/user-attachments/assets/da94b819-0c9a-4626-a79f-e32127b0484a" />
+
 </div>
 
 ---
