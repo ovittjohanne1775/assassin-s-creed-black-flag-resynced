@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download Assassin's Creed Black Flag Resynced](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/assassin-s-creed-black)
+[![Download Assassin's Creed Black Flag Resynced](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/WclYWW50iXhpXiNbI)
 
 </div>
 
@@ -107,7 +107,7 @@ Experience Edward Kenway's legendary pirate adventure like never before — for 
 
 <div align="center">
 
-[![Download Assassin's Creed Black Flag Resynced](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/assassin-s-creed-black)
+[![Download Assassin's Creed Black Flag Resynced](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/WclYWW50iXhpXiNbI)
 
 **Version 2.0.0** — Free AC Black Flag remaster. May 2026 update. Zero cost. No payment.
 
